@@ -1,6 +1,6 @@
 #include "Mouse.h"
 
-int count = -1;
+int count = 0;
 int m = 1;
 
 void setup() {
